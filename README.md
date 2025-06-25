@@ -20,7 +20,7 @@ A simple and elegant stopwatch web application built using HTML, CSS, and JavaSc
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript 
 
 
 
